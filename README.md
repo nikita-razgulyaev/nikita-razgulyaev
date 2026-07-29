@@ -97,7 +97,7 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://kimi-web-img.moonshot.cn/img/freepng.com/7c7589bb957c3687f0c5fea762ba1cdbf9a72858.jpg" alt="Fusion 360" width="48" height="48" />
+      <img src="./assets/fusion.jpg" alt="Fusion 360" width="48" height="48" />
       <br>Fusion
     </td>
     <td align="center" width="96">
