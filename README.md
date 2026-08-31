@@ -149,14 +149,15 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
 
 > Web Apps
 
-| Repository                                                                | Technologies                                                                           | Description                                                                        |
-| :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| [FlowMind AI](https://github.com/nikita-razgulyaev/FlowMind-AI)           | React, TypeScript, Vite, Tailwind CSS, Python, FastAPI, Uvicorn, SQLite, Nginx, Ollama | Visual AI workflow builder with a drag-and-drop interface                          |
-| [SmartHub](https://github.com/nikita-razgulyaev/smart-hub)                | React, TypeScript, Tailwind CSS, Zustand, Vite, Axios, Jest                            | Real-time system monitoring dashboard                                              |
-| [API Rate Limiter](https://github.com/nikita-razgulyaev/API-Rate-Limiter) | Node.js, Express, Redis, JavaScript                                                    | Multi-strategy API rate limiting demo (Fixed Window, Sliding Window, Token Bucket) |
-| [BIMPRO](https://github.com/nikita-razgulyaev/BIMPRO)                     | HTML, CSS, JavaScript                                                                  | Website for a real estate visualization company                                    |
-| [Interpan](https://github.com/nikita-razgulyaev/Interpan)                 | HTML, CSS, JavaScript                                                                  | Website for a fire-resistant decorative panel manufacturer                         |
-| [Boxrent](https://github.com/nikita-razgulyaev/Boxrent)                   | HTML, CSS, JavaScript                                                                  | Website for a container rental and investment company                              |
+| Repository                                                                | Technologies                                                                                                               | Description                                                                                                   |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| [FlowMind AI](https://github.com/nikita-razgulyaev/FlowMind-AI)           | React, TypeScript, Vite, Tailwind CSS, Python, FastAPI, Uvicorn, SQLite, Nginx, Ollama                                     | Visual AI workflow builder with a drag-and-drop interface                                                     |
+| [AI Robot Server](https://github.com/nikita-razgulyaev/AI-Robot-Server)   | Python, FastAPI, WebSocket, Uvicorn, faster-whisper, llama-cpp-python, Silero, edge-tts, YOLOv8, MediaPipe, OpenCV, Qdrant | Voice AI server for a robotic owl — speech recognition, character LLM, TTS, computer vision and servo control |
+| [SmartHub](https://github.com/nikita-razgulyaev/smart-hub)                | React, TypeScript, Tailwind CSS, Zustand, Vite, Axios, Jest                                                                | Real-time system monitoring dashboard                                                                         |
+| [API Rate Limiter](https://github.com/nikita-razgulyaev/API-Rate-Limiter) | Node.js, Express, Redis, JavaScript                                                                                        | Multi-strategy API rate limiting demo (Fixed Window, Sliding Window, Token Bucket)                            |
+| [BIMPRO](https://github.com/nikita-razgulyaev/BIMPRO)                     | HTML, CSS, JavaScript                                                                                                      | Website for a real estate visualization company                                                               |
+| [Interpan](https://github.com/nikita-razgulyaev/Interpan)                 | HTML, CSS, JavaScript                                                                                                      | Website for a fire-resistant decorative panel manufacturer                                                    |
+| [Boxrent](https://github.com/nikita-razgulyaev/Boxrent)                   | HTML, CSS, JavaScript                                                                                                      | Website for a container rental and investment company                                                         |
 
 > Bots
 
@@ -166,9 +167,9 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
 
 > Robots
 
-| Repository                                                            | Technologies                                                                                                                               | Description                                            |
-| :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| [AI Robotic Owl](https://github.com/nikita-razgulyaev/AI-Robotic-Owl) | **Model:** Arduino. **Server:** React, TypeScript, Python, FastAPI, Uvicorn, WebSocket, Llama-cpp-python, Faster-whisper, Edge-tts, OpenCV | Robotic owl model with voice control and face tracking |
+| Repository                                                            | Technologies                                                                                       | Description                                            |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| [AI Robotic Owl](https://github.com/nikita-razgulyaev/AI-Robotic-Owl) | **Firmware:** Arduino. **Software:** WebSocket, Llama-cpp-python, Faster-whisper, Edge-tts, OpenCV | Robotic owl model with voice control and face tracking |
 
 ## 🌐 Socials
 
