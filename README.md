@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Robotics+Engineer;React+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;Arduino+%7C+Python+%7C+llama-cpp-python;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Robotics+Engineer;React+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;Arduino+%7C+Python+%7C+llama-cpp-python;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Banner" />
 </p>
 
 ## Hi There! 👋
@@ -16,77 +16,77 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="./assets/react.svg" alt="React" width="50" height="50" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="./assets/javascript.svg" alt="JavaScript" width="50" height="50" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+      <img src="./assets/ts.svg" alt="TypeScript" width="50" height="50" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+      <img src="./assets/html.svg" alt="HTML" width="50" height="50" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+      <img src="./assets/css.svg" alt="CSS" width="50" height="50" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+      <img src="./assets/bootstrap.svg" alt="Bootstrap" width="50" height="50" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+      <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="./assets/python.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+      <img src="./assets/nodejs.svg" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <img src="./assets/rest-api.svg" alt="REST API" width="65" height="65" />
       <br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+      <img src="./assets/fastapi.svg" alt="FastAPI" width="48" height="48" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <img src="./assets/postgres.svg" alt="PostgreSQL" width="50" height="50" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+      <img src="./assets/mysql.svg" alt="MySQL" width="50" height="50" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+      <img src="./assets/redis.svg" alt="Redis" width="50" height="50" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="./assets/docker.svg" alt="Docker" width="68" height="68" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <img src="./assets/linux.svg" alt="Linux" width="48" height="48" />
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <img src="./assets/git.svg" alt="Git" width="48" height="48" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="./assets/github.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
   </tr>
@@ -101,45 +101,35 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
       <br>Fusion
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" />
+      <img src="./assets/blender.svg" alt="Blender" width="48" height="48" />
       <br>Blender
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" />
+      <img src="./assets/arduino.svg" alt="Arduino" width="48" height="48" />
       <br>Arduino
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+      <img src="./assets/cpp.svg" alt="C++" width="50" height="50" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="https://iconscout.com/lottie-animation/ollama-logo-animation_11682667">
-        <img src="./assets/ollama.gif" alt="Ollama" width="48" height="48" />
-      </a>
+      <img src="./assets/ollama.gif" alt="Ollama" width="50" height="50" />
       <br>Ollama
     </td>
     <td align="center" width="96">
-      <a href="https://www.magnific.com/animated-icon/artificial-intelligence_10971749#fromView=search&page=2&position=31&uuid=a4bd701c-d903-4ad6-96e7-35bc76779687">
-        <img src="./assets/ai.gif" alt="LLM" width="48" height="48" />
-      </a>
+      <img src="./assets/ai.gif" alt="LLM" width="58" height="58" />
       <br>LLM
     </td>
     <td align="center" width="96">
-      <a href="https://www.flaticon.com/free-icon/text-to-speech_6805674">
-        <img src="./assets/text-to-speech.png" alt="TTS" width="48" height="48" />
-      </a>
+      <img src="./assets/text-to-speech.png" alt="TTS" width="48" height="48" />
       <br>Text-to-Speech
     </td>
     <td align="center" width="96">
-      <a href="https://www.flaticon.com/free-icon/podcast_16873995">
-        <img src="./assets/speech-to-text.png" alt="STT" width="48" height="48" />
-      </a>
+      <img src="./assets/speech-to-text.png" alt="STT" width="48" height="48" />
       <br>Speech-to-Text
     </td>
     <td align="center" width="96">
-      <a href="https://https://www.flaticon.com/free-icon/computer-vision_15758503">
-        <img src="./assets/machine-vision.png" alt="MV" width="48" height="48" />
-      </a>
+      <img src="./assets/machine-vision.png" alt="MV" width="48" height="48" />
       <br>Machine Vision
     </td>
   </tr>
@@ -170,11 +160,3 @@ I'm **Nikita**, a **Full-Stack Developer & AI Robotics Engineer**
 | Repository                                                            | Technologies                                                                                       | Description                                            |
 | :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | [AI Robotic Owl](https://github.com/nikita-razgulyaev/AI-Robotic-Owl) | **Firmware:** Arduino. **Software:** WebSocket, Llama-cpp-python, Faster-whisper, Edge-tts, OpenCV | Robotic owl model with voice control and face tracking |
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://t.me/nikita_razgulyaev">
-    <img src="https://img.icons8.ru/?size=100&id=Sz6lu91x9jqC&format=png&color=000000" width="40" height="40" alt="Telegram" />
-  </a>
-</p>
